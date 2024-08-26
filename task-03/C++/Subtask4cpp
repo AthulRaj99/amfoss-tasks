@@ -1,0 +1,24 @@
+#include <fstream>  // For file input/output
+
+int main() {
+    std::ifstream in("input.txt");  // Open "input.txt" for reading
+    int n;
+    in >> n;  // Read integer n from the file
+    in.close();  // Close the input file
+
+    std::ofstream out("output.txt");  // Open "output.txt" for writing
+
+    // Print the upper half of the diamond
+    for (int i = 0; i < n; i++) {
+        out << std::string(n-i-1, ' ') << std::string(2*i+1, '*') << "\n";
+    }
+
+    // Print the lower half of the diamond
+    for (int i = n-2; i >= 0; i--) {
+        out << std::string(n-i-1, ' ') << std::string(2*i+1, '*') << "\n";
+    }
+
+    out.close();  // Close the output file
+    return 0;  // Indicate successful completion
+}
+
