@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: cinemagoer
+Version: 2023.5.1
+Summary: Python package to access the IMDb's database
+Home-page: https://cinemagoer.github.io/
+Download-URL: https://cinemagoer.github.io/downloads/
+Author: Davide Alberani
+Author-email: da@mimante.net
+Maintainer: Davide Alberani
+Maintainer-email: da@mimante.net
+License: GPL
+Project-URL: Source, https://github.com/cinemagoer/cinemagoer
+Keywords: imdb,movie,people,database,cinema,film,person,cast,actor,actress,director,sql,character,company,package,plain text data files,keywords,top250,bottom100,xml
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Natural Language :: English
+Classifier: Natural Language :: Italian
+Classifier: Natural Language :: Turkish
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Database :: Front-Ends
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content :: CGI Tools/Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+License-File: LICENSE.txt
+Requires-Dist: SQLAlchemy
+Requires-Dist: lxml
+Provides-Extra: dev
+Requires-Dist: flake8 ; extra == 'dev'
+Requires-Dist: flake8-isort ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+Requires-Dist: tox ; extra == 'dev'
+Provides-Extra: doc
+Requires-Dist: sphinx ; extra == 'doc'
+Requires-Dist: sphinx-rtd-theme ; extra == 'doc'
+
+Cinemagoer is a Python package useful to retrieve and
+manage the data of the IMDb movie database about movies, people,
+characters and companies.
+
+Cinemagoer and its authors are not affiliated in any way to
+Internet Movie Database Inc.; see the DISCLAIMER.txt file for
+details about data licenses.
+
+Platform-independent and written in Python 3
+
+Cinemagoer package can be very easily used by programmers and developers
+to provide access to the IMDb's data to their programs.
+
+Some simple example scripts - useful for the end users - are included
+in this package; other Cinemagoer-based programs are available at the
+home page: https://cinemagoer.github.io/
