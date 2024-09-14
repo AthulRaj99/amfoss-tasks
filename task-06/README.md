@@ -39,7 +39,3 @@ This project is based on the original repository by Miguel Grinberg, which can b
 5. Run the application
    ```bash
    flask run
-
-
-
-
