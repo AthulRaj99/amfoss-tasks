@@ -11,3 +11,18 @@ I will strive to be accessible to the club for any events or projects. I am comm
 ## 3. What Are Your Fields of Interest, and How Do You Plan on Working on Them?
 
 Currently, my primary exposure has been to web development, which I find fascinating. I am eager to learn more about various fields and expand my skills. My plan is to explore different areas of technology and coding, continually building and creating projects that align with my interests. This exploration and hands-on experience are my main motivations for pursuing coding.
+## Task Status Table
+
+| Task Number | Task Title                  | Status        |
+|-------------|-----------------------------|---------------| 
+| 0           | Install Linux               | Completed     |
+| 1           | Type Maestro                | Completed     |
+| 2           | Terminal Chaos              | Completed     |
+| 3           | Hello, World!               | Completed     |
+| 4           | Gopal and his PagePal       | Not Completed |
+| 5           | TerminalTrolly              | Not Completed |
+| 6           | OpenDocs                    | Completed     |
+| 7           | Pirate's Dilemma            | Completed     |
+| 8           | Blog Burst                  | Completed     |
+| 9           | HERO-DEX!                   | Not Completed |
+| 10          | Operation Pixel Merge       | Not Completed |
