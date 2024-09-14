@@ -1,15 +1,13 @@
-# amfoss-tasks
-#MYANSWERS
-##1 WHY SHOULD YOU CHOOSE ME?
-Hi everyone I'm Athul Raj and I'm a S1 CSE  student.I have always been curious about building 
-something on my own which should give me happiness but more than that it should also make people's 
-lives easier in some ways.When I heard about the club i realised that this was the help which I 
-always wanted.I also assure you that you can trust me in all the projects and will 
-try my level best to bring a change in the  club with my own contributions.
-##2 HOW DO YOU INTEND TO CONTIBUTE BACK TO THE CLUB? 
-I will always try to be accessible to the club whatever be the event or project.I will also try 
-to share the knowledge that I got to other club members and help them in whatever ways possible.
-##3 WHAT ARE YOUR FIELDS OF INTEREST,AND HOW DO YOU PLAN ON WORKING ON THEM?
-Right now I have only heard more about web dev which is not that much.But whatever I heard seemed 
-fascinating to me.I would love to learn more about other fields and try to build something on my own
-which has always been my primary reason to get into coding.
+# MY ANSWERS
+
+## 1. Why Should You Choose Me?
+
+Hi everyone! I'm Athul Raj, an S1 CSE student. I've always been curious about building something on my own that not only brings me happiness but also makes people's lives easier. When I learned about this club, I realized it was the opportunity I had been looking for. I assure you that you can trust me with all projects, and I will do my best to contribute positively to the club with my efforts.
+
+## 2. How Do You Intend to Contribute Back to the Club?
+
+I will strive to be accessible to the club for any events or projects. I am committed to sharing the knowledge I gain with other club members and assisting them in any way possible. My goal is to be an active participant and contribute to the collective success of the club.
+
+## 3. What Are Your Fields of Interest, and How Do You Plan on Working on Them?
+
+Currently, my primary exposure has been to web development, which I find fascinating. I am eager to learn more about various fields and expand my skills. My plan is to explore different areas of technology and coding, continually building and creating projects that align with my interests. This exploration and hands-on experience are my main motivations for pursuing coding.
