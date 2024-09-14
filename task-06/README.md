@@ -24,16 +24,20 @@ This project is based on the original repository by Miguel Grinberg, which can b
    cd microblog
 
 2. Create and activate virtual environment
+   ```bash
    python3 -m venv venv
    source venv/bin/activate
 
 3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 4. Set up the database:
+   ```bash
    flask db upgrade
 
 5. Run the application
+   ```bash
    flask run
 
 
